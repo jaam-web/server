@@ -42,9 +42,9 @@ python server.py --help
 ## Windows
 ```sh
 # Usando el programa de Windows
-server.exe
-server.exe 8080
-server.exe --help
+.\server.exe
+.\server.exe 8080
+.\server.exe --help
 ```
 ## Opciones
 
