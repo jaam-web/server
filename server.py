@@ -299,6 +299,7 @@ def print_help():
     print(Fore.YELLOW + "Para más información, visita la interfaz web o revisa los comentarios del código." + Style.RESET_ALL)
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] in ("-h", "--help"):
+        input("Presiona Enter para salir...")
         print_help()
         sys.exit(0)
 
