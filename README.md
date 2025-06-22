@@ -1,4 +1,4 @@
-!server.jpg
+![f06037b5-234a-4901-aa76-e43806b39849](https://github.com/user-attachments/assets/93d90801-9f5c-4616-b50e-7df66338775b)
 # Servidor de Archivos Web
 
 Este programa es un **servidor web sencillo** que permite compartir y descargar archivos de la carpeta actual a través de una interfaz web moderna y responsiva. Puedes acceder desde cualquier dispositivo en tu red local.
@@ -39,6 +39,7 @@ python server.py [PUERTO]
 python server.py
 python server.py 8080
 python server.py --help
+
 ```
 ## Windows
 ```sh
