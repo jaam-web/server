@@ -1,4 +1,4 @@
-#server.jpg
+!server.jpg
 # Servidor de Archivos Web
 
 Este programa es un **servidor web sencillo** que permite compartir y descargar archivos de la carpeta actual a través de una interfaz web moderna y responsiva. Puedes acceder desde cualquier dispositivo en tu red local.
